@@ -1,0 +1,1 @@
+import{_ as a,c as e,o,N as t}from"./chunks/framework.1e6a71f2.js";const p=JSON.parse('{"title":"前端八股","description":"","frontmatter":{},"headers":[],"relativePath":"articles/八股.md"}'),s={name:"articles/八股.md"},r=t("",7),i=[r];function l(c,n,h,_,d,u){return o(),e("div",null,i)}const b=a(s,[["render",l]]);export{p as __pageData,b as default};
