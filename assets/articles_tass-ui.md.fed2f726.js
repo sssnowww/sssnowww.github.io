@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.1e6a71f2.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/tass-ui.md"}'),s={name:"articles/tass-ui.md"};function r(c,o,n,i,p,_){return a(),e("div")}const m=t(s,[["render",r]]);export{l as __pageData,m as default};
