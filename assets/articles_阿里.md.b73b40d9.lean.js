@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,N as t}from"./chunks/framework.1e6a71f2.js";const p=JSON.parse('{"title":"阿里电话面","description":"","frontmatter":{},"headers":[],"relativePath":"articles/阿里.md"}'),s={name:"articles/阿里.md"},i=t("",8),o=[i];function c(n,d,l,h,_,u){return r(),e("div",null,o)}const b=a(s,[["render",c]]);export{p as __pageData,b as default};
