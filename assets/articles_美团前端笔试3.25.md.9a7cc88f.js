@@ -9,7 +9,6 @@ import{_ as s,c as n,o as a,N as l}from"./chunks/framework.1e6a71f2.js";const i=
 <span class="line"><span style="color:#A6ACCD;">            j </span><span style="color:#89DDFF;">+=</span><span style="color:#A6ACCD;"> </span><span style="color:#F78C6C;">1</span></span>
 <span class="line"><span style="color:#A6ACCD;">    </span><span style="color:#89DDFF;font-style:italic;">return</span><span style="color:#A6ACCD;"> </span><span style="color:#89DDFF;">not</span><span style="color:#A6ACCD;"> st</span></span>
 <span class="line"></span>
-<span class="line"></span>
 <span class="line"><span style="color:#C792EA;">def</span><span style="color:#A6ACCD;"> </span><span style="color:#82AAFF;">main</span><span style="color:#89DDFF;">():</span></span>
 <span class="line"><span style="color:#A6ACCD;">    T </span><span style="color:#89DDFF;">=</span><span style="color:#A6ACCD;"> </span><span style="color:#FFCB6B;">int</span><span style="color:#89DDFF;">(</span><span style="color:#82AAFF;">input</span><span style="color:#89DDFF;">())</span></span>
 <span class="line"><span style="color:#A6ACCD;">    ans </span><span style="color:#89DDFF;">=</span><span style="color:#A6ACCD;"> </span><span style="color:#89DDFF;">[]</span></span>
@@ -27,7 +26,6 @@ import{_ as s,c as n,o as a,N as l}from"./chunks/framework.1e6a71f2.js";const i=
 <span class="line"><span style="color:#A6ACCD;">            </span><span style="color:#82AAFF;">print</span><span style="color:#89DDFF;">(</span><span style="color:#89DDFF;">&quot;</span><span style="color:#C3E88D;">Yes</span><span style="color:#89DDFF;">&quot;</span><span style="color:#89DDFF;">)</span></span>
 <span class="line"><span style="color:#A6ACCD;">        </span><span style="color:#89DDFF;font-style:italic;">else</span><span style="color:#89DDFF;">:</span></span>
 <span class="line"><span style="color:#A6ACCD;">            </span><span style="color:#82AAFF;">print</span><span style="color:#89DDFF;">(</span><span style="color:#89DDFF;">&quot;</span><span style="color:#C3E88D;">No</span><span style="color:#89DDFF;">&quot;</span><span style="color:#89DDFF;">)</span></span>
-<span class="line"></span>
 <span class="line"></span>
 <span class="line"><span style="color:#89DDFF;font-style:italic;">if</span><span style="color:#A6ACCD;"> __name__ </span><span style="color:#89DDFF;">==</span><span style="color:#A6ACCD;"> </span><span style="color:#89DDFF;">&quot;</span><span style="color:#C3E88D;">__main__</span><span style="color:#89DDFF;">&quot;</span><span style="color:#89DDFF;">:</span></span>
 <span class="line"><span style="color:#A6ACCD;">    </span><span style="color:#82AAFF;">main</span><span style="color:#89DDFF;">()</span></span>
