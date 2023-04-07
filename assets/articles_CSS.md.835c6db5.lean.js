@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as l,N as n}from"./chunks/framework.1e6a71f2.js";const p="/sanjiao_1.png",d=JSON.parse('{"title":"CSS","description":"","frontmatter":{},"headers":[],"relativePath":"articles/CSS.md"}'),o={name:"articles/CSS.md"},e=n("",74),t=[e];function r(c,D,F,i,y,C){return l(),a("div",null,t)}const h=s(o,[["render",r]]);export{d as __pageData,h as default};

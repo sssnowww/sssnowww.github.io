@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as e,N as a}from"./chunks/framework.1e6a71f2.js";const g=JSON.parse('{"title":"浏览器","description":"","frontmatter":{},"headers":[],"relativePath":"articles/浏览器.md"}'),o={name:"articles/浏览器.md"},t=a("",18),s=[t];function r(n,c,h,u,d,p){return e(),i("div",null,s)}const f=l(o,[["render",r]]);export{g as __pageData,f as default};
