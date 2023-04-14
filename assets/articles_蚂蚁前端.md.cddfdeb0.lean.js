@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,N as r}from"./chunks/framework.1e6a71f2.js";const m=JSON.parse('{"title":"蚂蚁前端","description":"","frontmatter":{},"headers":[],"relativePath":"articles/蚂蚁前端.md"}'),_={name:"articles/蚂蚁前端.md"},o=r("",3),s=[o];function c(n,i,d,l,h,p){return t(),e("div",null,s)}const f=a(_,[["render",c]]);export{m as __pageData,f as default};
