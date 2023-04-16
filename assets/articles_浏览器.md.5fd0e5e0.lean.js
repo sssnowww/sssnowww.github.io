@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,N as n}from"./chunks/framework.cda25d75.js";const o="/huancun_1.png",d=JSON.parse('{"title":"浏览器","description":"","frontmatter":{},"headers":[],"relativePath":"articles/浏览器.md"}'),p={name:"articles/浏览器.md"},e=n("",23),t=[e];function r(c,i,y,F,D,A){return a(),l("div",null,t)}const h=s(p,[["render",r]]);export{d as __pageData,h as default};

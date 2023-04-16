@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as n,N as e}from"./chunks/framework.1e6a71f2.js";const y=JSON.parse('{"title":"tass-ui组件库","description":"","frontmatter":{},"headers":[],"relativePath":"articles/tass-ui.md"}'),l={name:"articles/tass-ui.md"},o=e("",19),p=[o];function t(r,c,i,d,D,u){return n(),s("div",null,p)}const h=a(l,[["render",t]]);export{y as __pageData,h as default};
