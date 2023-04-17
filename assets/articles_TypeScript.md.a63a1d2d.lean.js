@@ -1,1 +1,0 @@
-import{_ as i,o as t,c as a,N as e}from"./chunks/framework.cda25d75.js";const T=JSON.parse('{"title":"TypeScript","description":"","frontmatter":{},"headers":[],"relativePath":"articles/TypeScript.md"}'),r={name:"articles/TypeScript.md"},l=e("",7),c=[l];function p(s,o,n,_,d,h){return t(),a("div",null,c)}const u=i(r,[["render",p]]);export{T as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,R as l}from"./chunks/framework.e45065f2.js";const i=JSON.parse('{"title":"招行卡中心笔试","description":"","frontmatter":{},"headers":[],"relativePath":"articles/招行卡中心笔试.md"}'),p={name:"articles/招行卡中心笔试.md"},o=l("",6),t=[o];function e(D,c,F,r,y,C){return n(),a("div",null,t)}const f=s(p,[["render",e]]);export{i as __pageData,f as default};
