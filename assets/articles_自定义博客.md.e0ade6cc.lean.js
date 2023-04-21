@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,R as s}from"./chunks/framework.e45065f2.js";const f=JSON.parse('{"title":"自定义博客","description":"","frontmatter":{},"headers":[],"relativePath":"articles/自定义博客.md"}'),l={name:"articles/自定义博客.md"},r=s("",20),n=[r];function o(i,c,h,p,u,d){return e(),t("div",null,n)}const _=a(l,[["render",o]]);export{f as __pageData,_ as default};

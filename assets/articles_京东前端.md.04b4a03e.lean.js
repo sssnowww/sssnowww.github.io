@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,R as r}from"./chunks/framework.ac544104.js";const m=JSON.parse('{"title":"京东前端","description":"","frontmatter":{},"headers":[],"relativePath":"articles/京东前端.md","lastUpdated":null}'),o={name:"articles/京东前端.md"},s=r("",3),_=[s];function c(n,i,l,d,b,h){return a(),t("div",null,_)}const u=e(o,[["render",c]]);export{m as __pageData,u as default};

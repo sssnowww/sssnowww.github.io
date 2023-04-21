@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as l,R as o}from"./chunks/framework.e45065f2.js";const n="/huancun_1.png",h=JSON.parse('{"title":"浏览器","description":"","frontmatter":{},"headers":[],"relativePath":"articles/浏览器.md"}'),e={name:"articles/浏览器.md"},p=o("",60),t=[p];function r(i,c,y,F,D,C){return a(),l("div",null,t)}const A=s(e,[["render",r]]);export{h as __pageData,A as default};

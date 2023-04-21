@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,R as r}from"./chunks/framework.e45065f2.js";const m=JSON.parse('{"title":"前端技术领域","description":"","frontmatter":{},"headers":[],"relativePath":"articles/前端技术领域.md"}'),o={name:"articles/前端技术领域.md"},i=r("",6),n=[i];function h(s,l,c,_,d,u){return e(),t("div",null,n)}const f=a(o,[["render",h]]);export{m as __pageData,f as default};

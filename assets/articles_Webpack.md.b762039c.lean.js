@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,R as c}from"./chunks/framework.e45065f2.js";const k=JSON.parse('{"title":"Webpack","description":"","frontmatter":{},"headers":[],"relativePath":"articles/Webpack.md"}'),i={name:"articles/Webpack.md"},r=c("",7),l=[r];function o(p,s,n,_,b,d){return e(),t("div",null,l)}const u=a(i,[["render",o]]);export{k as __pageData,u as default};

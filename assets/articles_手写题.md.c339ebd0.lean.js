@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,R as l}from"./chunks/framework.e45065f2.js";const C=JSON.parse('{"title":"手写题","description":"","frontmatter":{},"headers":[],"relativePath":"articles/手写题.md"}'),p={name:"articles/手写题.md"},o=l("",17),e=[o];function t(r,c,y,F,D,i){return n(),a("div",null,e)}const f=s(p,[["render",t]]);export{C as __pageData,f as default};

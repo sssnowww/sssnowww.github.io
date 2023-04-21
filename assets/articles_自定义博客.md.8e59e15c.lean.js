@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,R as r}from"./chunks/framework.ac544104.js";const m=JSON.parse('{"title":"自定义博客","description":"","frontmatter":{},"headers":[],"relativePath":"articles/自定义博客.md","lastUpdated":null}'),s={name:"articles/自定义博客.md"},l=r("",22),n=[l];function i(o,h,c,p,d,u){return e(),t("div",null,n)}const f=a(s,[["render",i]]);export{m as __pageData,f as default};
