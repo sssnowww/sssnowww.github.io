@@ -1,1 +1,0 @@
-import{_ as r,o as e,c as a,R as t}from"./chunks/framework.ac544104.js";const u=JSON.parse('{"title":"阿里前端","description":"","frontmatter":{},"headers":[],"relativePath":"articles/阿里前端.md","lastUpdated":null}'),o={name:"articles/阿里前端.md"},s=t("",11),b=[s];function c(n,i,d,h,l,_){return e(),a("div",null,b)}const m=r(o,[["render",c]]);export{u as __pageData,m as default};
