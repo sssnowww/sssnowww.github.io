@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,R as r}from"./chunks/framework.ac544104.js";const u=JSON.parse('{"title":"其他","description":"","frontmatter":{},"headers":[],"relativePath":"articles/其他.md","lastUpdated":null}'),o={name:"articles/其他.md"},_=r("",3),s=[_];function c(n,i,l,d,h,p){return a(),t("div",null,s)}const m=e(o,[["render",c]]);export{u as __pageData,m as default};
