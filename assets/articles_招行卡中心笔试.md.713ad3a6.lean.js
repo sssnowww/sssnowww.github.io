@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,R as l}from"./chunks/framework.ac544104.js";const i=JSON.parse('{"title":"招行卡中心笔试","description":"","frontmatter":{},"headers":[],"relativePath":"articles/招行卡中心笔试.md","lastUpdated":null}'),p={name:"articles/招行卡中心笔试.md"},o=l("",6),e=[o];function t(r,c,D,F,y,C){return n(),a("div",null,e)}const b=s(p,[["render",t]]);export{i as __pageData,b as default};
