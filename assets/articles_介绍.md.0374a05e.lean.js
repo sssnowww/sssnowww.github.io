@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as s,S as t}from"./chunks/framework.ad333ad2.js";const m=JSON.parse('{"title":"介绍","description":"","frontmatter":{"tag":["介绍"]},"headers":[],"relativePath":"articles/介绍.md","lastUpdated":null}'),n={name:"articles/介绍.md"},o=t("",7),l=[o];function r(c,i,p,d,h,_){return e(),s("div",null,l)}const f=a(n,[["render",r]]);export{m as __pageData,f as default};
