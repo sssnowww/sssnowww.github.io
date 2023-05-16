@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,S as r}from"./chunks/framework.ad333ad2.js";const p=JSON.parse('{"title":"资源汇总","description":"","frontmatter":{},"headers":[],"relativePath":"articles/资源汇总.md","lastUpdated":null}'),l={name:"articles/资源汇总.md"},n=r("",13),i=[n];function o(c,h,s,u,d,_){return a(),t("div",null,i)}const b=e(l,[["render",o]]);export{p as __pageData,b as default};
